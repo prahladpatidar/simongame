@@ -8,6 +8,8 @@ body{
 h1{
     font-family: 'Lucida Handwriting', cursive;
     color: rgb(255, 0, 0);
+    margin-top: -1%;
+    margin-bottom: 1%;
 }
 .btn{
     height: 150px;
@@ -32,6 +34,7 @@ h1{
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
+    margin-top: -1%;
     
 }
 .button:active {
@@ -62,4 +65,9 @@ h1{
 }
 .userflash{
     background-color: black;
+
+}
+h2{
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
 }
